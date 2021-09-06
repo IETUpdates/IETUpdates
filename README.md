@@ -6,7 +6,7 @@
 
 [![Boss's github stats](https://github-readme-stats.vercel.app/api?username=IETUpdates&show_icons=true&theme=cobalt&count_private=true)](https://github.com/sandy1709)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandy1709&layout=compact&theme=cobalt)](https://github.com/sandy1709)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IETUpdates&layout=compact&theme=cobalt)](https://github.com/IETUpdates)
 <!--
 **sandy1709/sandy1709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
