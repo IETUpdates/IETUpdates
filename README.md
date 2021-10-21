@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![TG Channel](https://img.shields.io/badge/dynamic/json?color=red&label=channel%20@mm_moviess&query=subscribers&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3Dmm_moviess&logo=telegram)
-![TG Chat](https://img.shields.io/badge/dynamic/json?color=red&label=support%20@mm_moviess&query=online&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3Dmm_moviess&logo=telegram)
+![TG Chat](https://img.shields.io/badge/dynamic/json?color=red&label=support%20@iet_support&query=online&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3DIET_SUPPORT&logo=telegram)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIETUpdates&count_bg=%23FF0D3C&title_bg=%23555555&icon=proto-dot-io.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
