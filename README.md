@@ -23,7 +23,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### Follow on:
+<p align="left">
+<a href="https://github.com/ietupdates"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+</p>
+<p align="left">
+<a href="https://twitter.com/iqbal_ka"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
+</p>
+<p align="left">
+<a href="https://facebook.com/iqbalka"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
+</p>
+<p align="left">
+<a href="https://instagram.com/iqbal_k_a"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+</p>
 
 <!---
 IETUpdates/IETUpdates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
