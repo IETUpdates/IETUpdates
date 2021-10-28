@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <a href="https://facebook.com/iqbalka"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
 </p>
 <p align="left">
-<a href="https://instagram.com/iqbal_k_a"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+<a href="https://instagram.com/iqbal_ka_"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
 </p>
 <p align="left">
 <a href="https://chat.whatsapp.com/Ea8ToNgKlOW68IDv4ivCMU"><img src="https://img.shields.io/badge/whatsapp-Follow%20on%20whatsapp-green.svg?logo=whatsapp"></a>
